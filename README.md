@@ -1,6 +1,6 @@
 NB: This is a template to make documentation process easy. You can remove the `To-Do` notes in your final commit
 
-# Project Title Here
+# XYZ Supermarket Data Analysis
 
 To-Do - Write a short project description here.
 
