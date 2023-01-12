@@ -29,6 +29,7 @@ To-Do - Explain the insights you were able to uncover from the analysing the dat
 # Future Work
 
 To-Do - Suggest tasks you might include in future work to make this project more robust.
+More emhasis would be laid on ratings time analysis
 
 # Standout Section
 
