@@ -26,8 +26,9 @@ Some of the skillset used to solve this problem
 
 # Future Work
 	
-More analysis should be performed on information from branches of supermarket across the cities to deep dive into happenings in each area and make more insightful decisions that works best for each.
-More attention on days of the month which customers are satisfied and not satisfy to improve overall performances.
+- More analysis should be performed on information from branches of supermarket across the cities to deep dive into happenings in each area and make more insightful decisions that works best for each.
+- More attention on days of the month which customers are satisfied and not satisfy to improve overall performances.
+- Detailed time analysis
 
 # Standout Section
 
