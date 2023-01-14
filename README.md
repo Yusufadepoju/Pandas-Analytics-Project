@@ -32,8 +32,8 @@ More attention on days of the month which customers are satisfied and not satisf
 # Standout Section
 
 
-Analysis of customer type based on gender
-A comprehensive rating analysis is performed to look into satisfaction status of customers on various type of metrics available
+- Analysis of customer type based on gender
+- A comprehensive rating analysis is performed to look into satisfaction status of customers on various type of metrics available
 
 
 # Executive Summary.
