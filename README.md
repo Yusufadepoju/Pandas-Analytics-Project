@@ -3,14 +3,14 @@
 # Company XYZ Supermarket Data Analysis
 
 
-Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months. The data folder contains datasets from three different branches; Lagos, Abuja and Port Harcourt. Each data file from the branches contains the same attribute information 
+Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months. The data folder contains datasets from three different branches; Lagos, Abuja and Port Harcourt. Each data file from the branches contains the same attribute information.
 
 # Project Steps
 
 
 Some of the skillset used to solve this problem
-1) Data Gathering: The Dataset consist of 3 tables in csv formarts.
-2) Data Cleaning : This was done effectively, the process involved converting data appropiate data type,
+1) Data Gathering: The Dataset consist of 3 tables in csv formats.
+2) Data Cleaning : This was done effectively, the process involved converting data appropiate data type.
 3) Exploratory Data Analysis: The dataset was explored to reveal hidden insights to the stakeholders requirements.
 4) Data Visualization: A report was created using seaborn to visualize the insights to the stakeholders.
 5) Documentation: Each process and approach was documented.
